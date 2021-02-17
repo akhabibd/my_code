@@ -1,3 +1,2 @@
-# code_league
-
+# my code
 shopee code league 2020
