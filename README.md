@@ -1,2 +1,2 @@
 # my code
-shopee code league 2020
+shopee code
